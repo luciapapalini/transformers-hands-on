@@ -2,7 +2,7 @@ An Intuitive Introduction to Transformers ✨
 
 This repository contains a Google Colab notebook for a hands-on, beginner-friendly introduction to how Transformers work.
 
-👉 [Open the notebook in Colab]{https://colab.research.google.com/drive/1ydTenYhm9Yp2Y-Mu33mZSXG-Lg2LdQQJ#scrollTo=_kntcJw5egq0}
+👉 [Open the notebook in Colab](https://colab.research.google.com/drive/1ydTenYhm9Yp2Y-Mu33mZSXG-Lg2LdQQJ#scrollTo=_kntcJw5egq0)
 
 What you’ll learn
 	•	Word embeddings using GloVe
