@@ -1,6 +1,6 @@
 An Intuitive Introduction to Transformers ✨
 
-Transformers first paper: (Vaswani et al 2017)[https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf]
+Transformers first paper: [Vaswani et al 2017](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
 This repository contains a Google Colab notebook for a hands-on, beginner-friendly introduction to how Transformers work.
 
